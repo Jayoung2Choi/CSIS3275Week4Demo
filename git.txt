@@ -1,0 +1,10 @@
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Jayoung2Choi/CSIS3275Week4Demo.git
+git push -u origin master
+
+
+
+
+git pull
